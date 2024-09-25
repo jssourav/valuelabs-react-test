@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.dispalyProduct {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border: 1px solid #61dafb;
+  
+}
